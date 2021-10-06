@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. very important --> vital
+2. food scientist --> dietitian
+3. moderate
+4. serving
+5. skipping
